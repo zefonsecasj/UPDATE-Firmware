@@ -1,0 +1,9 @@
+ Guru Meditation Error: Core  0 panic'ed (IllegalInstruction). Exception was unhandled.
+17:29:45.351 -> Memory dump at 0x401485bc: 89760020 3df07f72 3df03df0
+17:29:45.351 -> Core 0 register dump:
+17:29:45.351 -> PC      : 0x401485c1  PS      : 0x00060630  A0      : 0x80146169  A1      : 0x3ffaf260  
+17:29:45.351 -> A2      : 0x00000000  A3      : 0x3ffc7580  A4      : 0x00100000  A5      : 0x0d8f0072  
+17:29:45.351 -> A6      : 0x00ad7f98  A7      : 0xfffcffff  A8      : 0x3ffc75ec  A9      : 0x00000006  
+17:29:45.386 -> A10     : 0x00000000  A11     : 0x00000039  A12     : 0x0000003b  A13     : 0x0000003b  
+17:29:45.386 -> A14     : 0x3ffc7580  A15     : 0x3ffbf5d8  SAR     : 0x00000007  EXCCAUSE: 0x00000000  
+17:29:45.386 -> EXCVADDR: 0x00000000  LBEG    : 0x401485c1  LEND    : 0x40148634  LCOUNT  : 0x00000005 
